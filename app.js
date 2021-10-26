@@ -1,9 +1,3 @@
-//Captura los datos del .json
-// async function getData(data_json = 'data.json') {
-//     const response = await fetch(data_json);
-//     const data = await response.json(); 
-//     return data;
-// }
 
 //Captura los datos del .json
 const  getData = async() => {
